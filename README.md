@@ -2,13 +2,13 @@
 
 I'm a Software Engineer specializing in Web Development & Machine Learning. I love creating and contributing to unique, meaningful projects, utilizing a variety of languages and technologies. 
 
-- 🎓 I'm a recent graduate from University of California San Diego with a B.S. in Cognitive Science with a specialization in Machine Learning & Neural Computation.
-- 💼 My experience includes internships at Amazon Web Services, PairAnything, and ObjectSecurity.
+- 💼 Software Engineer II at Walmart Global Tech working on the InHome Platform
+- 🎓 Graduated from University of California San Diego with a B.S. in Cognitive Science with a specialization in Machine Learning & Neural Computation.
 - 🔭 I’m currently working on a variety of projects, check them out below!
 
 ## 🚀 Skills
 - Languages: Python, Java, JavaScript, TypeScript, HTML/CSS, SQL, Lua, Matlab, C++
-- Tools/Frameworks: AWS, Azure, Tensorflow, Keras, Flask, Django, Quart, Bootstrap, Numpy, Pandas, Mockito, React, Express, Node, NextJS, LaTeX, Git, Docker, Kubernetes and more...
+- Tools/Frameworks: Azure, AWS, Tensorflow, Keras, Flask, Django, Bootstrap, Numpy, Pandas, Mockito, Jest, React, Express, Node, NextJS, LaTeX, Git, Docker, Kubernetes and more...
 
 Check out the complete list [here](https://portfolio-bay-nine-53.vercel.app/#skills).
 
@@ -18,6 +18,7 @@ Check out the complete list [here](https://portfolio-bay-nine-53.vercel.app/#ski
 - **ChatGPT Github Contexts Plugin**: A ChatGPT plugin for interfacing and connecting with Github Repositories. [More info...](https://portfolio-bay-nine-53.vercel.app/#projects)
 
 ## 💼 Experience
+- **Walmart Global Tech** (Software Engineer II)
 - **Amazon Web Services** (Software Development Engineer Intern)
 - **PairAnything** (Software Data Engineer Intern)
 - **ObjectSecurity** (Software Engineering Intern)
