@@ -37,6 +37,11 @@ I'm a Senior Software Engineer focused on backend systems, platform reliability,
 - Managed backend development and intern team coordination  
 - Built Yelp-powered recommendation engine with scraping and API integrations
 
+**ObjectSecurity – Software Engineering Intern**  
+- Implemented offline speech-to-text transcription for sensitive meeting summaries in high-security environments  
+- Evaluated model performance and accuracy tradeoffs using ML concepts, comparing multiple transcription engines  
+- Built a lightweight Bootstrap frontend for user interaction and result presentation
+
 ## 🎓 Education
 **University of California, San Diego**  
 B.S. in Cognitive Science (Specialization in ML & Neural Computation)
