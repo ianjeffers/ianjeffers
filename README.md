@@ -49,7 +49,7 @@ B.S. in Cognitive Science (Specialization in ML & Neural Computation)
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ian-jeffers-847588193/)
 - [GitHub](https://github.com/ianjeffers)
-- [Portfolio](https://portfolio-bay-nine-53.vercel.app/)
+- [Portfolio](https://ianjeffers-portfolio-v6u9.vercel.app/)
 
 ---
 
